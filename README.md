@@ -1,2 +1,2 @@
 # ball-Moreau
- Moreau鏍煎紡璁＄畻灏忕悆纰版挒
+ Moreau格式计算小球碰撞+投影法
